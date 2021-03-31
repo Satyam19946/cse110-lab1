@@ -36,7 +36,7 @@ Here's a Starbucks drink order you've been sleeping on:
 > The only thing I can't have is dairy!
 
 ## Summary
-But oops, I apologize if that was a lot of information. Maybe if it was presented in a more comprehenisible language:
+But oops, I apologize if that was a lot of information. Maybe if it was presented in a more comprehensible language:
 ```java
 class Manda {
     int year = 4;
