@@ -1,37 +1,67 @@
-## Welcome to GitHub Pages
+# Welcome to Manda's User Page
 
-You can use the [editor on GitHub](https://github.com/mandatran/cse110-lab1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[profile-pic](img/profilePic.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hi, my name is Manda Tran and I am a fourth-year math-computer science major at UCSD.
 
-### Markdown
+You can learn more about me by clicking on one of the following:
+* [Main Site](https://mandatran.github.io/)
+* [LinkedIn](https://www.linkedin.com/in/manda-tran/)
+* [GitHub](https://github.com/mandatran)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Table of Contents
+- [Welcome to Manda's User Page](#welcome-to-mandas-user-page)
+  - [Table of Contents](#table-of-contents)
+  - [Research Interests](#research-interests)
+  - [Personal Interests](#personal-interests)
+    - [Here's a quote I live by](#heres-a-quote-i-live-by)
+  - [Summary](#summary)
+  - [Goals](#goals)
 
-```markdown
-Syntax highlighted code block
+## Research Interests
+I am interested in the intersection of *computer science* and *mathematics*. Post graduation I will be pursuing a master's in conmputer science with a concentration in **security and cryptography**.
 
-# Header 1
-## Header 2
-### Header 3
+I am currently an undergraduate researcher where I am performing data analysis on dark net data collected by the largest network telescope.
 
-- Bulleted
-- List
+## Personal Interests
+I like drawing, eating breakfast, true crime (and fake crime @CriminalMinds), and wasting time on Pinterest.
 
-1. Numbered
-2. List
+Here's a Starbucks drink order you've been sleeping on:
+* Grande Nitro Cold Brew
+  * add 3 pumps of Mocha sauce
+  * splash of ~~milk~~ ***almond milk***
 
-**Bold** and _Italic_ and `Code` text
+### Here's a quote I live by
+[The only thing I can't have is dairy!](img/quote.gif)
+> The only thing I can't have is dairy!
 
-[Link](url) and ![Image](src)
+## Summary
+But oops, I apologize if that was a lot of information. Maybe if it was presented in a more comprehenisible language:
+```java
+class Manda {
+    int year = 4;
+    String school = "UCSD";
+    String major = "Math-CS";
+    String [] likes = ["math", "web dev", 
+        "croissants", "cold brew", "sushi",
+        "pandas", "new girl", "painting",
+        "a challenge ;)"];
+    String [] dislikes = ["lactose"];
+
+    void changeSchool (String gradSchool) {
+        school = gradSchool;
+    }
+    
+    void major (String gradMajor) {
+        major = gradMajor;
+    }
+}
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mandatran/cse110-lab1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Goals
+For future Manda:
+- [x] finish this lab
+  - [screenshots](img/screenshots)
+- [ ] get that B.S.
+- [ ] get that M.S.
+- [ ] get job
