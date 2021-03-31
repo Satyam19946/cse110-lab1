@@ -9,12 +9,9 @@ You can learn more about me by clicking on one of the following:
 * [LinkedIn](https://www.linkedin.com/in/manda-tran/)
 * [GitHub](https://github.com/mandatran)
 
-## Table of Contents
 - [Welcome to Manda's User Page](#welcome-to-mandas-user-page)
-  - [Table of Contents](#table-of-contents)
   - [Research Interests](#research-interests)
   - [Personal Interests](#personal-interests)
-    - [Here's a quote I live by](#heres-a-quote-i-live-by)
   - [Summary](#summary)
   - [Goals](#goals)
 
@@ -61,7 +58,7 @@ class Manda {
 ## Goals
 For future Manda:
 - [x] finish this lab
-  - [screenshots](img/screenshots)
+  - [screenshots](screenshots)
 - [ ] get that B.S.
 - [ ] get that M.S.
 - [ ] get job
