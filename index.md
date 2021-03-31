@@ -1,6 +1,6 @@
 # Welcome to Manda's User Page
 
-[profile-pic](img/profilePic.png)
+![profile-pic](img/profilePic.png)
 
 Hi, my name is Manda Tran and I am a fourth-year math-computer science major at UCSD.
 
@@ -32,7 +32,7 @@ Here's a Starbucks drink order you've been sleeping on:
   * splash of ~~milk~~ ***almond milk***
 
 ### Here's a quote I live by
-[The only thing I can't have is dairy!](img/quote.gif)
+![The only thing I can't have is dairy!](img/quote.gif)
 > The only thing I can't have is dairy!
 
 ## Summary
