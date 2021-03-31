@@ -9,6 +9,7 @@ You can learn more about me by clicking on one of the following:
 * [LinkedIn](https://www.linkedin.com/in/manda-tran/)
 * [GitHub](https://github.com/mandatran)
 
+## Table of Contents
 - [Welcome to Manda's User Page](#welcome-to-mandas-user-page)
   - [Research Interests](#research-interests)
   - [Personal Interests](#personal-interests)
