@@ -59,7 +59,9 @@ class Manda {
 ## Goals
 For future Manda:
 - [x] finish this lab
-  - [screenshots](https://github.com/mandatran/cse110-lab1/tree/gh-pages/screenshots)
+  - relative links:
+    - [command line](screenshots/gitCommandLine.png)
+    - [VSCode UI](screenshots/vsCodeUI.png)
 - [ ] get that B.S.
 - [ ] get that M.S.
 - [ ] get job
